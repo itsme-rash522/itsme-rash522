@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development with DevOps and AI.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Open Source Projects and Tech Communities.
-- 📫 Reach me on LinkedIn.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/itsme-rash522).
 - 😄 Pronouns: He/Him ...
 - ⚡ Fun fact: It's me Rash522 ;)
 
