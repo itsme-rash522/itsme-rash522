@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Projects and Tech Communities.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/itsme-rash522).
 - 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: It's me Rash522 ;)
+- ⚡ It's me Rash522 ;)
 
 <!---
 itsme-rash522/itsme-rash522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
